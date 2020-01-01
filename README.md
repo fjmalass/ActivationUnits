@@ -1,3 +1,5 @@
+![ActivationUnits](/images/activations.png)
+
 # Jupyter notebook to display activation units
 
 1. ReLU: Rectifier Linear Unit
@@ -8,5 +10,3 @@
 # Launching notepad server
 ```python -m notebook```
 
-# Images
-![ActivationUnits](/images/activations.png)
